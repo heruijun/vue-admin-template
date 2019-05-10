@@ -1,10 +1,10 @@
 import Mock from 'mockjs'
 
 const data = Mock.mock({
-  'items|30': [{
+  'items|10': [{
     id: '@id',
     title: '@sentence(10, 20)',
-    'status|1': ['published', 'draft', 'deleted'],
+    'status|1': ['推荐在线', '下线', '在线'],
     author: 'name',
     display_time: '@datetime',
     pageviews: '@integer(300, 5000)'

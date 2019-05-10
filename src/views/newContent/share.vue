@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">乐分享平台</div>
+    <div class="dashboard-text">新增内容 -> 分享奖励</div>
   </div>
 </template>
 
